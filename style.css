@@ -1,0 +1,71 @@
+.row .col-lg-4 {
+  margin-top:25px;
+}
+
+@media screen and (max-width: 576px){
+  .col-sm-3 {
+    margin-top:60px;
+  }
+  }
+
+.card-title {
+  text-align:center;
+  padding-top: 90px;
+  font-size: 80px;
+}
+
+.card-text {
+text-align: center;
+font-size: 30px;
+}
+
+.navbar-brand {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.nav-link {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #ff7f50;
+  font-weight: bold;
+}
+
+.list-group a {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.list-group > .list-group-item {
+  color: #ff7f50;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.btn-outline-secondary {
+  background-color: #008080;
+  color: white;
+}
+
+ .btn-outline-secondary:hover {
+  background-color: #ff7f50;
+  color: #008080;
+}
+
+.list-group .list-group-item  {
+  background-color: #008080;
+  border-color: grey;
+}
+
+.list-group .list-group-item-action  {
+  background-color: white;
+}
+
+#navbarNavDropdown a:hover{
+  color: #ff7f50;
+}
+
+.list-group a:hover {
+  color: grey;
+}
